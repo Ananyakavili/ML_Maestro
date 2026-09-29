@@ -1490,19 +1490,19 @@ Potential future enhancements include:
 
 ---
 
-# Contributors
+## Contributors
 
-## Ananya Kavili
+### Ananya Kavili
 
-Developer and contributor to the ML Maestro project.
+Developer and contributor to ML Maestro V1 and V2.
 
 GitHub:
 
 https://github.com/Ananyakavili
 
-## Sheba Sulthana
+### Sheba Sulthana
 
-Contributor to the original ML Maestro V1 implementation.
+Developer and contributor to ML Maestro V1 and V2.
 
 GitHub:
 
