@@ -6,12 +6,12 @@ and using ML Maestro V1 and V2.
 It covers:
 
 - Environment setup
-- Dependency installation
-- Running ML Maestro V2
-- Using the V2 application
-- Running the preserved V1 application
-- Input dataset requirements
-- Application outputs
+- [Dependency installation](#installation)
+- [Running ML Maestro V2](#running-v2)
+- [Using the V2 application](#using-ml-maestro)
+- [Running the V1 application](#running-v1)
+- [Input dataset requirements](#input-dataset)
+- [Application outputs](#output)
 
 The main project overview, publication information, architecture,
 version history, and project description are available in the
