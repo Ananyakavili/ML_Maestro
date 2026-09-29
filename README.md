@@ -27,6 +27,7 @@ The repository preserves the original V1 implementation under `versions/v1/`, wh
 # Table of Contents
 
 - [Overview](#overview)
+- [Publication](#publication)
 - [Project Evolution](#project-evolution)
 - [V1 - Original ML Maestro](#v1---original-ml-maestro)
 - [V2 - Current ML Maestro](#v2---current-ml-maestro)
@@ -87,6 +88,41 @@ The application combines:
 
 The goal is to provide a simple workflow where users can focus on their dataset and Machine Learning task rather than implementing the underlying Machine Learning pipeline manually.
 
+---
+## Publication
+
+ML Maestro has been published as a research chapter in the Springer Proceedings in Mathematics & Statistics.
+
+### Published Research
+
+**Title:**  
+*ML-Maestro: No Code Machine Learning with Interactive Data Visualization*
+
+**Authors:**  
+Ananya Kavili, Sheba Sulthana, S. Baghavathi Priya
+
+**Book:**  
+*Applications of Mathematics in E-Commerce and Finance*
+
+**Conference:**  
+SocProS 2025, Roorkee, India, February 24–26
+
+**Publisher:**  
+Springer Nature
+
+**Series:**  
+Springer Proceedings in Mathematics & Statistics
+
+**Pages:**  
+267–276
+
+**Book DOI:**  
+https://doi.org/10.1007/978-981-95-4813-2
+
+**Springer:**  
+https://link.springer.com/book/10.1007/978-981-95-4813-2
+
+The publication presents the ML Maestro project as a no-code Machine Learning platform with interactive data visualization capabilities.
 ---
 
 # Project Evolution
